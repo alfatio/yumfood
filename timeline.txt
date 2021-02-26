@@ -1,0 +1,12 @@
+setup database:                     1,5 jam
+initial config express:             1 jam
+routing untuk vendor dan validasi:  2 jam
+routing untuk dish dan validasi:    2 jam
+buat seeder untuk vendor:           0,5 jam
+routing untuk order:                2 jam
+routing untuk tag:                  1 jam
+table penengah VendorTag :          2 jam
+cek semua routing:                  1,5 jam
+buat seeder untuk lainnya:          1 jam
+dokumentasi:                        2 jam
+
